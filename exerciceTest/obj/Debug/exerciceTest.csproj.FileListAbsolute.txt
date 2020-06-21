@@ -1,0 +1,14 @@
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\bin\Debug\exerciceTest.exe.config
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\bin\Debug\exerciceTest.exe
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\bin\Debug\exerciceTest.pdb
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\obj\Debug\exerciceTest.csprojResolveAssemblyReference.cache
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\obj\Debug\exerciceTest.csproj.CoreCompileInputs.cache
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\obj\Debug\exerciceTest.exe
+c:\users\aymer\source\repos\exerciceTest\exerciceTest\obj\Debug\exerciceTest.pdb
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\bin\Debug\exerciceTest.exe.config
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\bin\Debug\exerciceTest.exe
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\bin\Debug\exerciceTest.pdb
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\obj\Debug\exerciceTest.csprojAssemblyReference.cache
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\obj\Debug\exerciceTest.csproj.CoreCompileInputs.cache
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\obj\Debug\exerciceTest.exe
+C:\Users\Aymerich\Desktop\cousJubin\exerciceTest\exerciceTest\obj\Debug\exerciceTest.pdb
